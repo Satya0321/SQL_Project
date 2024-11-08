@@ -87,4 +87,7 @@ This project highlights the critical role of data-driven decision-making in reta
   
 The actionable insights derived from this analysis will empower businesses to create targeted campaigns, allocate resources effectively, and maximize ROI from future promotions.
 
+## Other links:
+This project is taken from Codebasis resume projects. These are real-world and unguided projects.
 
+For more details check on their wedsite: [click here for website](https://codebasics.io/)
