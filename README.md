@@ -17,7 +17,7 @@ For the complete information about the project.
 #### Results
 For the Code and Results:
 
-[Click here]()
+[Click here](https://github.com/Satya0321/SQL_Project/tree/main/Results)
 
 ## Key Insights:
 
@@ -52,8 +52,19 @@ For the Code and Results:
 * Sankranti promotions generated more revenue compared to Diwali, with an incremental revenue (IR) of 113.58% compared to 107.64% for Diwali.
 
 ## Technologies Used
-#### Database
- MySQL for data storage and advanced querying.
+#### MySQL
+* MySQL for data storage and advanced querying.
+* MySQL was the sole tool used to perform all stages of analysis, including:
+##### Data Exploration:
+Examined the structure and contents of datasets to identify patterns and trends.
+##### Data Transformation:
+Aggregated, joined, and pivoted data to restructure it for specific analytical needs.
+##### Advanced Analytics: 
+Calculated key metrics such as Incremental Sold Units (ISU), Incremental Revenue (IR), and category-wise sales lifts.
+##### Trend Analysis:
+Analyzed promotional effectiveness over time and identified top-performing products, stores, and promotion types.
+##### Reporting: 
+Generated actionable insights by creating summary tables and ranking top categories, products, and stores.
 
 ## Recommendations
 #### Promotional Strategy:
