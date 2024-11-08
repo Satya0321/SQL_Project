@@ -5,8 +5,19 @@ This project explores the impact of promotional campaigns on sales performance, 
 
 ## Data Sources:
 #### Datasets:
-For all Datasets click on the below link.
+For all Datasets click on the link.
 
+[check here](https://github.com/Satya0321/SQL_Project/tree/main/dataset)
+
+#### Input_files:
+For the complete information about the project.
+
+[Check here]()
+
+#### Results
+For the Code and Results:
+
+[Click here]()
 
 ## Key Insights:
 
