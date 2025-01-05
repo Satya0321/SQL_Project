@@ -1,4 +1,4 @@
-# SQL_Project
+# Retail Promotion and Sales Analysis
 ## Project Overview
 
 This project explores the impact of promotional campaigns on sales performance, providing actionable insights into product, promotion, and store-level analytics. By analyzing transactional data, the project identifies high-performing categories, evaluates the effectiveness of various promotion types, and uncovers store-specific trends. The insights can help optimize retail strategies for better revenue generation, improved product performance, and enhanced customer satisfaction.
